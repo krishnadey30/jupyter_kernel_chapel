@@ -1,8 +1,8 @@
 # Jupyter Kernel Chapel
 
-## Using Singular in Jupyter
+## Using Chapel in Jupyter
 
-It is possible to use [Jupyter](http://www.jupyter.org) as front-end for Singular.
+It is possible to use [Jupyter](http://www.jupyter.org) as front-end for Chapel.
 
 ### Installation
 
