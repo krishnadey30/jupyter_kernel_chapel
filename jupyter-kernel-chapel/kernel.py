@@ -73,7 +73,7 @@ class RealTimeSubprocess(subprocess.Popen):
 
 
 class ChapelKernel(Kernel):
-	implementation = 'chapel_kernel'
+	implementation = 'jupyter-kernel-chapel'
 	implementation_version = __version__
 
 
