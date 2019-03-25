@@ -35,7 +35,7 @@ Please install Chapel in shared mode
 
 ```bash
 
-export CHPL_LIBMODE=shared
+export CHPL_LIB_PIC=shared
 ```
 
 #### Jupyter Kernel Chapel

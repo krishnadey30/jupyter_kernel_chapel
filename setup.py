@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from setuptools import setup
 setup( name="jupyter-kernel-chapel"
-     , version="0.0.1"
+     , version="0.0.2"
      , description="A Jupyter kernel for chapel"
      , author="Krishna Kumar Dey"
      , author_email="krishnakumardey.dey@gmail.com"
