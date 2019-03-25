@@ -41,5 +41,5 @@ export CHPL_LIB_PIC=shared
 #### Jupyter Kernel Chapel
 
 ```bash
-pip3 install .
+pip3 install jupyter-kernel-chapel
 ```
