@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "chapel-mode/main": true
+  }
+}
