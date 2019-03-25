@@ -14,22 +14,32 @@ If you want to run the Jupyter notebook locally on your computer, you need a rec
 of Python 2 or 3 and Jupyter installed. The use of Python 3 is recommended.
 
 To install Python3 run
-```
+
+```bash
+
 apt-get install python3-pip
 ```
+
 We recommend using Python3, but you can also use Python2.
 
 To install Jupyter using pip, run
-```
+
+```bash
+
 pip3 install jupyter
 ```
+
 #### Chapel
+
 Please install Chapel in shared mode
-```
+
+```bash
+
 export CHPL_LIBMODE=shared
 ```
 
 #### Jupyter Kernel Chapel
-```
-python3 setup.py install --user
+
+```bash
+pip3 install .
 ```
