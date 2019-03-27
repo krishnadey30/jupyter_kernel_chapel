@@ -11,7 +11,7 @@ import os.path as path
 
 
 
-__version__ = '0.0.1'
+__version__ = '0.0.3'
 version_pat = re.compile(r'version (\d+(\.\d+)+)')
 
 class RealTimeSubprocess(subprocess.Popen):
