@@ -34,7 +34,7 @@ class Installer(install):
                # TODO: Copy resources once they're specified
 
                print('Installing IPython kernel spec')
-               KernelSpecManager().install_kernel_spec(td, 'chapel', user=user, replace=True, prefix=prefix)
+               KernelSpecManager().install_kernel_spec(td, 'chapel', user=self.user, replace=True, prefix=self.prefix)
 
 
 

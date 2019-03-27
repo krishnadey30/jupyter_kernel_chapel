@@ -43,5 +43,4 @@ export CHPL_LIB_PIC=shared
 ```bash
 pip3 install jupyter-kernel-chapel
 
-install_chapel_kernel --user
 ```
