@@ -44,7 +44,7 @@ with open('README.md', 'r') as f:
 
 
 setup( name="jupyter-kernel-chapel"
-     , version="0.0.2"
+     , version="0.0.1"
      , description="A Jupyter kernel for chapel"
      , long_description=long_description
      , author="Krishna Kumar Dey"
