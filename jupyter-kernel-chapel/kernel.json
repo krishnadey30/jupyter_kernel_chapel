@@ -1,0 +1,12 @@
+{
+    "argv": [
+            "python3",
+            "-m",
+            "jupyter-kernel-chapel",
+            "-f",
+            "{connection_file}"
+    ],
+    "display_name": "Chapel",
+    "language": "chapel",
+    "codemirror_mode": "chapel"
+}
