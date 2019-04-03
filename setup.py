@@ -9,6 +9,9 @@ kernelpath = os.path.join("share", "jupyter", "kernels", "chapel")
 nbextpath = os.path.join("share", "jupyter", "nbextensions", "chapel-mode")
 nbconfpath = os.path.join("etc", "jupyter", "nbconfig", "notebook.d")
 
+with open('README.md', 'r') as f:
+    long_description = f.read()
+
 setup( name="jupyter-kernel-chapel"
      , version="0.0.4"
      , description="A Jupyter kernel for chapel"
